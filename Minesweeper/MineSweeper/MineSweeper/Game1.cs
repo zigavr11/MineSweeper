@@ -204,6 +204,7 @@ namespace MineSweeper
 
         ButtonState MouseState()
         {
+            int i = 0;
             return ButtonState.Pressed;
         }
 
