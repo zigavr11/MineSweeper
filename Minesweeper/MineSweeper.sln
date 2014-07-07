@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeper", "MineSweeper\MineSweeper\MineSweeper.csproj", "{7FE68540-40FB-463A-9870-F553EEA6B841}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MineSweeperContent", "MineSweeper\MineSweeperContent\MineSweeperContent.contentproj", "{22F48332-7FB7-4FF5-9163-4D639B9E9B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE68540-40FB-463A-9870-F553EEA6B841}.Debug|x86.ActiveCfg = Debug|x86
+		{7FE68540-40FB-463A-9870-F553EEA6B841}.Debug|x86.Build.0 = Debug|x86
+		{7FE68540-40FB-463A-9870-F553EEA6B841}.Release|x86.ActiveCfg = Release|x86
+		{7FE68540-40FB-463A-9870-F553EEA6B841}.Release|x86.Build.0 = Release|x86
+		{22F48332-7FB7-4FF5-9163-4D639B9E9B54}.Debug|x86.ActiveCfg = Debug|x86
+		{22F48332-7FB7-4FF5-9163-4D639B9E9B54}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>whiteRectangle.png</Source>
+      <Name>whiteRectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\whiteRectangle.xnb</Output>
+      <Time>2014-05-18T00:44:05.8443259+02:00</Time>
+    </Item>
+    <Item>
+      <Source>1.png</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\1.xnb</Output>
+      <Time>2014-05-18T01:57:04.8373353+02:00</Time>
+    </Item>
+    <Item>
+      <Source>2.png</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2014-05-18T01:57:04.8303321+02:00</Time>
+    </Item>
+    <Item>
+      <Source>3.png</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\3.xnb</Output>
+      <Time>2014-05-18T01:57:04.8313309+02:00</Time>
+    </Item>
+    <Item>
+      <Source>4.png</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2014-05-18T01:57:04.8323314+02:00</Time>
+    </Item>
+    <Item>
+      <Source>5.png</Source>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\5.xnb</Output>
+      <Time>2014-05-18T01:57:04.8333322+02:00</Time>
+    </Item>
+    <Item>
+      <Source>6.png</Source>
+      <Name>6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\6.xnb</Output>
+      <Time>2014-05-18T01:57:04.8343331+02:00</Time>
+    </Item>
+    <Item>
+      <Source>7.png</Source>
+      <Name>7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\7.xnb</Output>
+      <Time>2014-05-18T01:57:04.8353336+02:00</Time>
+    </Item>
+    <Item>
+      <Source>8.png</Source>
+      <Name>8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\8.xnb</Output>
+      <Time>2014-05-18T01:57:04.836334+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bomb.png</Source>
+      <Name>bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\bomb.xnb</Output>
+      <Time>2014-05-18T02:05:26.4683571+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grayRectangle.png</Source>
+      <Name>grayRectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\grayRectangle.xnb</Output>
+      <Time>2014-05-18T02:18:33.4051768+02:00</Time>
+    </Item>
+    <Item>
+      <Source>flag.png</Source>
+      <Name>flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\flag.xnb</Output>
+      <Time>2014-05-18T02:18:39.3676142+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{22F48332-7FB7-4FF5-9163-4D639B9E9B54}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeperContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\zigavr11\documents\visual studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-26T17:09:02.5461223+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
