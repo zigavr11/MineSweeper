@@ -195,7 +195,7 @@ namespace MineSweeper
             timer += (int)gameTime.ElapsedGameTime.TotalMilliseconds;
             current = MouseState();
             before = current;
-            Mouse = Mouse.GetState().RightButton;
+
             if (Mouse.GetState().LeftButton == ButtonState.Pressed)
 
                 if (doubleClick)
